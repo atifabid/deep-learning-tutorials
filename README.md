@@ -13,7 +13,8 @@ Each tutorial introduces one core concept of modern deep learning with a hands-o
 | # | Topic | Folder | nbviewer Link |
 |---|-------|---------|---------------|
 | 1 | Perceptron Implementation | [Tutorial01_Perceptron](Tutorial01_Perceptron/tutorial1_solution.ipynb) | [Open in nbviewer](https://nbviewer.org/github/USERNAME/deep-learning-tutorials/blob/main/Tutorial01_Perceptron/tutorial1_solution.ipynb) |
-| 2 | Multi-Layer Perceptron (MLP) | [Tutorial02_MLP](Tutorial02_MLP/tutorial2_solution.ipynb) | [Open in nbviewer](https://nbviewer.org/github/USERNAME/deep-learning-tutorials/blob/main/Tutorial02_MLP/tutorial2_solution.ipynb) |
+| 2 | Multi-Layer Perceptron (MLP) | [Tutorial02_MLP](Tutorial02_MLP/tutorial2_solution.ipynb) | [Open in nbviewer](https://nbviewer.org/github/USERNAME/deep-learning-tutorials/blob/main/Tutorial02_MLP/tutorial2_solution.ipynb) | [Open in Jupyter](https://jupyterlite.github.io/demo/lab/index.html?path=https://github.com/abigit240/deep-learning-tutorials/blob/main/Tutorial02_MLP/tutorial2_solution.ipynb)
+
 | 3 | MNIST Neural Network | [Tutorial03_MNIST](Tutorial03_MNIST/tutorial3_solution.ipynb) | [Open in nbviewer](https://nbviewer.org/github/USERNAME/deep-learning-tutorials/blob/main/Tutorial03_MNIST/tutorial3_solution.ipynb) |
 | 4 | Data Augmentation | [Tutorial04_DataAugmentation](Tutorial04_DataAugmentation/tutorial4_solution.ipynb) | [Open in nbviewer](https://nbviewer.org/github/USERNAME/deep-learning-tutorials/blob/main/Tutorial04_DataAugmentation/tutorial4_solution.ipynb) |
 | 5 | Convolutional Neural Network (CNN) | [Tutorial05_CNN](Tutorial05_CNN/tutorial5_solution.ipynb) | [Open in nbviewer](https://nbviewer.org/github/USERNAME/deep-learning-tutorials/blob/main/Tutorial05_CNN/tutorial5_solution.ipynb) |
