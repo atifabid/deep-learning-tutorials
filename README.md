@@ -3,6 +3,8 @@
 This repository hosts solved tutorial notebooks from a graduate-level Deep Learning course.  
 Each tutorial introduces one core concept of modern deep learning with a hands-on implementation in PyTorch or TensorFlow.
 
+Solved these as part of deep learning graduate course
+
 > **Disclaimer:** These notebooks are for learning and reference purposes only.  
 > Do not submit them directly as your own coursework.
 
